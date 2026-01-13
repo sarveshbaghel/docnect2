@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AcademiaRepo - Unified Document Management",
+  "description": "A comprehensive document repository for students and professors to share, review, and organize academic resources with AI-powered summaries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
